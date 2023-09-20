@@ -1,2 +1,2 @@
-# Do-Know-Harm-Code-Samples
-A collection of scripts written by Anvi Penmetsa for the game Do Know Harm
+# Do Know Harm Code Samples
+A collection of scripts written by Anvi Penmetsa for the game Do Know Harm.
