@@ -1,5 +1,7 @@
 # Do Know Harm Code Samples
-This is a collection of code samples written by Anvi Penmetsa for Do Know Harm, a fast-paced medical simulation game currently being developed using the Unity game engine.\
+This is a collection of code samples written by Anvi Penmetsa for Do Know Harm, a fast-paced 2D medical simulation game where the player trys to treat as many injured patients as possible.\
+ \
+This game is currently in development using the Unity game engine.\
  \
 The repository hosting the entire project is currently privated.\
  \
